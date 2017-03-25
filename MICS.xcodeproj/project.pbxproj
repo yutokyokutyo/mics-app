@@ -14,6 +14,7 @@
 		D13501361E869F9400E10990 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D13501341E869F9400E10990 /* LaunchScreen.storyboard */; };
 		D13501411E869F9400E10990 /* MICSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D13501401E869F9400E10990 /* MICSTests.swift */; };
 		D135014C1E869F9400E10990 /* MICSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D135014B1E869F9400E10990 /* MICSUITests.swift */; };
+		D135015A1E86A10000E10990 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D13501591E86A10000E10990 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		D13501471E869F9400E10990 /* MICSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MICSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D135014B1E869F9400E10990 /* MICSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MICSUITests.swift; sourceTree = "<group>"; };
 		D135014D1E869F9400E10990 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D13501591E86A10000E10990 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				D135012B1E869F9400E10990 /* AppDelegate.swift */,
 				D135012D1E869F9400E10990 /* ViewController.swift */,
+				D13501591E86A10000E10990 /* SecondViewController.swift */,
 				D135012F1E869F9400E10990 /* Main.storyboard */,
 				D13501321E869F9400E10990 /* Assets.xcassets */,
 				D13501341E869F9400E10990 /* LaunchScreen.storyboard */,
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D135012E1E869F9400E10990 /* ViewController.swift in Sources */,
+				D135015A1E86A10000E10990 /* SecondViewController.swift in Sources */,
 				D135012C1E869F9400E10990 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
