@@ -420,7 +420,7 @@
 				DEVELOPMENT_TEAM = C8KBB5K5A7;
 				INFOPLIST_FILE = MICS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = jp.kyokutyo.MICS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yutokyokutyo.MICS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -433,7 +433,7 @@
 				DEVELOPMENT_TEAM = C8KBB5K5A7;
 				INFOPLIST_FILE = MICS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = jp.kyokutyo.MICS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yutokyokutyo.MICS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -516,6 +516,7 @@
 				D13501521E869F9400E10990 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D13501531E869F9400E10990 /* Build configuration list for PBXNativeTarget "MICSTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +525,7 @@
 				D13501551E869F9400E10990 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D13501561E869F9400E10990 /* Build configuration list for PBXNativeTarget "MICSUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +534,7 @@
 				D13501581E869F9400E10990 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
